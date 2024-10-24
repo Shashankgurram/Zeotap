@@ -1,4 +1,5 @@
 # Zeotap
+
 # Rule Engine with AST
 This application uses an Abstract Syntax Tree (AST) to evaluate user eligibility based on certain attributes like age, salary, etc.
 
@@ -10,6 +11,7 @@ This application uses an Abstract Syntax Tree (AST) to evaluate user eligibility
 - Rule creation from string.
 - Rule combination into a single AST.
 - Rule evaluation against user data.
+
 
 # Weather Monitoring System
 This application fetches weather data from OpenWeatherMap for Indian metros and provides real-time updates.
